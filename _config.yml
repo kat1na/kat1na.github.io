@@ -39,6 +39,10 @@ theme_config:
     title_blog: Blog posts!
     title_old_projects: Old stuff I made!
 
+collections:
+  diary:
+    output: true
+
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
