@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: About kat1na-is-online
 ---
 
 This is an example page!

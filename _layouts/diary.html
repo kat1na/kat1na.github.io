@@ -4,7 +4,8 @@ layout: default
 <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
 
 <header>
-  <h1>{{ site.title }}</h1>
+  <h1>{{ site.diary_title }}</h1>
+  <p>{{ site.diary_description }}</p>
 </header>
 
 {% include diary_list.html %}
