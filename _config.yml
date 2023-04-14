@@ -6,14 +6,6 @@ description: > # description of the site (multiple lines allowed)
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
-diary_title: Daily-ish thoughts about life
-diary_description: Some thoughts about life to make me seem more human, because life is more than just tech and work. I'm not a robot, I swear!
-blog_title: 
-blog_description:  Blog posts about various tech and security topics. This is a central spot for them, but they can also be found on LinkedIn, HashNode, and Medium.
-# This will be coming soon...
-#twitter:
-#    username: abhinav # update or delete this
-#    card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
@@ -40,6 +32,15 @@ theme_config:
     title_projects: Fun stuff I made!
     title_misc_list: Details
     title_blog: Blog posts!
+  # options for the "diary" page
+  diary:
+    diary_title: Daily-ish thoughts about life
+    diary_description: Some thoughts about life to make me seem more human, because life is more than just tech and work. I'm not a robot, I swear!
+  # options for the "blog" page
+  blog:
+    blog_title: Look! Stuff I wrote!
+    blog_description:  Blog posts about various tech and security topics. This is a central spot for them, but they can also be found on LinkedIn, HashNode, and Medium. I do my best to post weekly!
+
 collections:
   diary:
     output: true

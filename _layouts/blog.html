@@ -4,7 +4,7 @@ layout: default
 <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
 
 <header>
-  <h1>Look! Stuff I wrote!</h1>
-  <p> {{ site.blog_description }} </p>
+  <h1>{{ site.theme_config.blog.blog_title }} </h1>
+  <p>{{ site.theme_config.blog.blog_description }}</p>
 </header>
 {% include post_list.html %}
