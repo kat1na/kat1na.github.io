@@ -8,9 +8,6 @@ navbar_entries:
   - title: writeups
     url: overview-post
 
-  - title: website
-    url: https://www.kat1na-is.online
-
 project_entries:
   - title: Hacking Multifactor Authentication Talk
     url: projects/2023-04-15-hacking-mfa-talk
@@ -19,7 +16,7 @@ project_entries:
 
 footer_entries:
   - title: socials
-    url: overview-post
+    url: diary/2023-04-14-coming-soon-2
 
 
 
