@@ -2,7 +2,7 @@ title: kat1na-is-online
 author: kat1na-is-online
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  I like cybersecurity and stuff. Wannabe hacker. IT professional that still has a soul. Stick around. Or not!
+  I like cybersecurity and stuff. Wannabe hacker. IT professional that still has a soul. Stick around. Or not! If you wanna chat, contact me here: sayhello@kat1na-is.online
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
