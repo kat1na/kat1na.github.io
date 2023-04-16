@@ -14,6 +14,7 @@ I decided to work on this talk because as an IAM Consultant, I work with and imp
 A follow up blog-post will be coming soon where I dive deeper into trying to phish a yubikey AND a step-by-step guide on how to set up your own phishing server using Evilginx 2 and AWS.
 
 Really hoping I can give this talk at other conferences and organizations. In the future, I may be giving this talk at OWASP Princeton (and no, not the school. not that fancy) - and I applied to give this talk at Cyberjutsu Con 2023. Fingers crossed!
+
 ---
 ### Resources
 - Need the slides? Find them [here](../assets/01-hacking-mfa-talk-slides.pdf)!
