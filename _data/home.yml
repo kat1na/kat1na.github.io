@@ -6,26 +6,20 @@ navbar_entries:
     url: diary
 
   - title: writeups
-    url: writeups
+    url: overview-post
 
   - title: website
     url: https://www.kat1na-is.online
 
 project_entries:
   - title: Hacking Multifactor Authentication Talk
-    url: language-tests
+    url: projects/2023-04-15-hacking-mfa-talk
     desc: My very first security talk! Resources and slides can be found here.
     highlight: NEW
 
 footer_entries:
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+  - title: socials
+    url: overview-post
 
 
 

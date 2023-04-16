@@ -44,6 +44,8 @@ theme_config:
 collections:
   diary:
     output: true
+  projects:
+    output: true
 
 highlighter: rouge
 
