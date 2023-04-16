@@ -21,7 +21,7 @@ Really hoping I can give this talk at other conferences and organizations. In th
 - Book: [Hacking Multifactor Authentication](https://www.amazon.com/Hacking-Multifactor-Authentication-Roger-Grimes/dp/1119650798) by Roger Grimes
 - Software: [Evilginx 2](https://github.com/kgretzky/evilginx2) by kgretzky
 - Software: [OWASP ZAP](https://owasp.org/www-project-zap/) by OWASP
-- Software: [Burp Suite Community](https://portswigger.net/burp/communitydownload)
+- Software: [Burp Suite Community](https://portswigger.net/burp/communitydownload) by Portswigger
 - Slide design by [slidesgo.com](https://slidesgo.com/)
 
 ---
