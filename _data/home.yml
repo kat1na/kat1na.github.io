@@ -7,6 +7,9 @@ navbar_entries:
 
   - title: writeups
     url: overview-post
+  
+  - title: resume
+    url: diary/2023-04-14-coming-soon-2
 
 project_entries:
   - title: Hacking Multifactor Authentication Talk
