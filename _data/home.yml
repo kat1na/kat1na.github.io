@@ -1,4 +1,7 @@
 navbar_entries:
+  - title: socials
+    url: diary/2023-04-14-coming-soon-2
+    
   - title: blog
     url: blog
   
@@ -11,6 +14,8 @@ navbar_entries:
   - title: resume
     url: diary/2023-04-14-coming-soon-2
 
+  - title: writing samples
+    url: diary/2023-04-14-coming-soon-2
 project_entries:
   - title: Hacking Multifactor Authentication Talk
     url: projects/2023-04-15-hacking-mfa-talk

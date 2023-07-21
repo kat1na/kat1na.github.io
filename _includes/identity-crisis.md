@@ -1,0 +1,2 @@
+### A note on my former identity crisis
+You might have known me by a few names - Mugen, Tina, br1o, kat1na-is-online, Jin... It became too much of a pain to try to find a "hacker handle" or a pseudonym so I'm just going by my real name now. It's easier that way - and sometimes people struggled with my names, got confused, etc... So I gave up! Call me Katina!

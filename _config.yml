@@ -1,8 +1,8 @@
-title: Katina's home on the web
+title: Katina Thongvong's home on the web
 author: Katina Thongvong 
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Hi there! I'm an Identity and Access Management professional with experience in implementing Okta and PingIdentity products. I'm looking to expand my horizons in technology!
+  Hi there! I'm an Identity and Access Management professional with nearly half a decade of experience in implementing Okta and PingIdentity products. I'm looking to expand my horizons not just in IAM, but in technology in general.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -30,12 +30,12 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Fun stuff I made!
+    title_projects: Portfolio
     title_misc_list: Details
     title_blog: Blog posts!
   # options for the "diary" page
   diary:
-    diary_title: Daily-ish thoughts about life
+    diary_title: Thoughts about life
     diary_description: Some thoughts about life to make me seem more human, because life is more than just tech and work. I'm not a robot, I swear!
      # options for the "writeups" page
   writeups:
