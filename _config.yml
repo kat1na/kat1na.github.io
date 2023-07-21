@@ -1,8 +1,8 @@
-title: cybermugen.dev
-author: Mugen T. 
+title: Katina's home on the web
+author: Katina Thongvong 
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  I like cybersecurity and stuff. Wannabe hacker. IT professional that still has a soul. Stick around. Or not! If you wanna chat, contact me here: sawyourwebsite@cybermugen.dev (guys my email aint working rn so contact me on linkedin here: https://www.linkedin.com/in/cyber-mugen/)
+  Hi there! I'm an Identity and Access Management professional with experience in implementing Okta and PingIdentity products. I'm looking to expand my horizons in technology!
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -23,6 +23,7 @@ theme_config:
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
   show_diary: true # show diary entries added in _diary
+  show_writeups: true # show writeups added in _writeups
   show_old_projects: false # show old projects as cards, add in _data/home.yml
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   show_reading_time: true # show number of words and reading time in the blog posts
@@ -36,13 +37,20 @@ theme_config:
   diary:
     diary_title: Daily-ish thoughts about life
     diary_description: Some thoughts about life to make me seem more human, because life is more than just tech and work. I'm not a robot, I swear!
+     # options for the "writeups" page
+  writeups:
+    writeups_title: CTF Writeups
+    writeups_description: Writeups for CTFs!
   # options for the "blog" page
   blog:
     blog_title: Look! Stuff I wrote!
     blog_description:  Blog posts about various tech and security topics. This is a central spot for them, but they can also be found on LinkedIn, HashNode, and Medium. I do my best to post weekly!
 
+    
 collections:
   diary:
+    output: true
+  writeups:
     output: true
   projects:
     output: true

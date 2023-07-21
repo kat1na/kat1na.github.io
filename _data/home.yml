@@ -6,7 +6,7 @@ navbar_entries:
     url: diary
 
   - title: writeups
-    url: overview-post
+    url: writeups
   
   - title: resume
     url: diary/2023-04-14-coming-soon-2
