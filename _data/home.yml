@@ -8,11 +8,11 @@ navbar_entries:
   - title: diary
     url: diary
 
-  - title: resume
-    url: diary/2023-04-14-coming-soon-2
-
-  - title: writing samples
-    url: diary/2023-04-14-coming-soon-2
+#  - title: resume
+#    url: diary/2023-04-14-coming-soon-2
+#
+#  - title: writing samples
+#    url: diary/2023-04-14-coming-soon-2
 
 project_entries:
   - title: Hacking multifactor authentication and phishing for $20 or less!
@@ -20,12 +20,12 @@ project_entries:
     desc: My first security talk where I talk about MFA bypass and setting up your own phishing server!
     highlight: NEW
 
-footer_entries:
-  - title: socials
-    url: https://kat1na-is-on-the-socials.glitch.me/
-
-  - title: resources
-    url: https://kat1na-is-on-the-socials.glitch.me/
+# footer_entries:
+#   - title: socials
+#     url: https://kat1na-is-on-the-socials.glitch.me/
+# 
+#   - title: resources
+#     url: https://kat1na-is-on-the-socials.glitch.me/
 
 
 
