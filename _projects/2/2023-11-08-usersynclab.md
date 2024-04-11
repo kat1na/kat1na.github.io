@@ -1,8 +1,8 @@
 ---
 layout: post
 author: Katina Thongvong
-tags: [projects, talk, hacking, mfa, iam]
-title: Hacking Multifactor Authentication Talk
+tags: [projects, iam, okta]
+title: User Sync between HR System, Okta, and on-prem Active Directory
 ---
 
 # Introduction
