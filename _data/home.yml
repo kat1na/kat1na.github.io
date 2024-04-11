@@ -2,11 +2,11 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: writeups
-    url: writeups
-  
-  - title: diary
-    url: diary
+#  - title: writeups
+#    url: writeups
+#  
+#  - title: diary
+#    url: diary
 
 #  - title: resume
 #    url: diary/2023-04-14-coming-soon-2
@@ -19,6 +19,12 @@ project_entries:
     url: projects/1/2023-07-21-phishing
     desc: My first security talk where I talk about MFA bypass and setting up your own phishing server!
     highlight: NEW
+  - title: User sync between HR system, Okta, and on-prem Active Directory
+    url: projects/2/2023-11-08-usersynclab
+    desc: Lab for newer IAM Practitioners to showcase basic identity management between different systems.
+    highlight: NEW
+
+
 
 # footer_entries:
 #   - title: socials
