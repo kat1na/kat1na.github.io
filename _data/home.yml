@@ -1,6 +1,6 @@
 navbar_entries:    
-  - title: blog
-    url: blog
+#  - title: blog
+#    url: blog
 
 #  - title: writeups
 #    url: writeups
