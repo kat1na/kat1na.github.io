@@ -1,6 +1,9 @@
 navbar_entries:  
    - title: Resume
      url: assets/KatinaThongvong-Resume-WebFinal.pdf
+
+   - title: Notes
+     url: https://publish.obsidian.md/cybersecnotes/now
 #  - title: blog
 #    url: blog
 
