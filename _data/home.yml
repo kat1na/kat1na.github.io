@@ -1,4 +1,6 @@
-navbar_entries:    
+navbar_entries:  
+   - title: Resume
+     url: assets/KatinaThongvong-Resume-WebFinal.pdf
 #  - title: blog
 #    url: blog
 
@@ -13,6 +15,8 @@ navbar_entries:
 #
 #  - title: writing samples
 #    url: diary/2023-04-14-coming-soon-2
+
+
 
 project_entries:
   - title: Hacking multifactor authentication and phishing for $20 or less!
