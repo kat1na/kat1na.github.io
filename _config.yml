@@ -2,7 +2,7 @@ title: Katina Thongvong's home on the web
 author: Katina Thongvong 
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-Hi there! I'm currently an SFS Scholar at the University of Delaware. Check out stuff about me below.
+  Hi there! I'm currently an SFS Scholar at the University of Delaware. If you would like to contact me, you can email kthongvong AT protonmail DOT .com
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
